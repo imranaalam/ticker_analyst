@@ -5,7 +5,6 @@
         |-- __pycache__
             |-- mxwll_suite_indicator.cpython-310.pyc
     |-- data
-        |-- tick_data.db
     |-- main.py
     |-- requirements.txt
     |-- utils
