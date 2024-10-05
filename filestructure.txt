@@ -1,0 +1,17 @@
+|-- requirements.txt
+|-- stock_analysis_app
+    |-- analysis
+        |-- mxwll_suite_indicator.py
+        |-- __pycache__
+            |-- mxwll_suite_indicator.cpython-310.pyc
+    |-- data
+        |-- tick_data.db
+    |-- main.py
+    |-- requirements.txt
+    |-- utils
+        |-- data_fetcher.py
+        |-- db_manager.py
+        |-- __pycache__
+            |-- data_fetcher.cpython-310.pyc
+            |-- db_manager.cpython-310.pyc
+|-- structure_maker.py
